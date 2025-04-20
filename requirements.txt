@@ -1,0 +1,12 @@
+djangorestframework
+djangorestframework-simplejwt
+channels
+channels-redis
+celery
+redis
+drf-yasg
+Django
+pillow
+django-cleanup
+django-allauth
+django-htmx
